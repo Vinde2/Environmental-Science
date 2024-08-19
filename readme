@@ -1,14 +1,14 @@
-#Mój pomysł to poszerzanie wiedzy na temat ekologi dla zwykłego człowieka
+#Projekt będzie bardzo prostym przedstawieniem wiedzy na temat ogólnych pojęć ekologi
 ## Oto typ mojego projektu:
-> Discord>Bot, AI ,
+> Discord.Bot, AI ,
 
 ## Biblioteki, których będę używać:
-tensorflow(Nie najnowszy)
-PiL
-numpy
-discord
-os
-random
+------>tensorflow(Nie najnowszy)
+----->PiL
+---->numpy
+--->discord
+-->os
+->random
 
-## Inne cieawe dodatki
+## Inne ciekawe dodatki ##
 Możliwe że w projekcie pojawi się quiz>>>>
