@@ -17,9 +17,9 @@ def get_class(model, labels,image):
   index = np.argmax(prediction)
   class_name = class_names[index]
   confidence_score = prediction[0][index]
-  if confidence_score >= 0.80000000 :
+  if confidence_score >= 0.60000000 :
     confidence_score = "Wysoce Prawdopodobne" 
   else:
     confidence_score = "Mniej Prawdopodobne"
 
-  return class_name[:1], confidence_score
+  return class_name, confidence_score
