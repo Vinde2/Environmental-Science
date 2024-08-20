@@ -3,8 +3,8 @@ from discord.ext import commands
 import os, random
 import requests
 from model import get_class
-from checkname import check_extention, Random_Question, Quiz #Answering
-
+from checkname import check_extention, Random_Question, Quiz, The_End #Answering
+import time
 
 intents = discord.Intents.default()
 intents.message_content = True
@@ -27,8 +27,8 @@ async def heh(ctx, count_heh = 5):
 
 @bot.command()
 async def news(ctx):
-    await ctx.send(f"Oto losowa ciekawostka:\n{Random_Question()}")
 
+    await ctx.send(f"Oto losowa ciekawostka:\n{Random_Question()}")
 
 @bot.command()
 async def check(ctx):
@@ -46,13 +46,20 @@ async def check(ctx):
 @bot.command()
 async def quiz(ctx):
     await ctx.send(f"Oto losowe pytanie\n{Quiz()}")
+    await ctx.send(f"[Zapisz je w zeszycie]")
+    
+    
     # if ctx.message.attachments :
     #     answer = ctx.message.attachments 
     #     Answering(answer)
     
 @bot.command()
+async def end(ctx):
+    await ctx.send(The_End())
+
+@bot.command()
 async def comands(ctx):
-    await ctx.send("komendy:\n hello - przywitaj się z botem \n news - losowe ciekawostki \n quiz - chce wziąść udział w quizie z ciekawostek \n check - możesz zrobić zdięcie elektrowni por ekologicznej a sztuczna inteligencja powiadomi się co to za elektrownia:)")
+    await ctx.send("komendy:\n hello - przywitaj się z botem \n news - losowe ciekawostki \n quiz - chce wziąść udział w quizie z ciekawostek \n check - możesz zrobić zdięcie elektrowni por ekologicznej a sztuczna inteligencja powiadomi się co to za elektrownia:)\n end - Odpowiedzi wraz z pytaniami można je zapisać w zeszycie")
 
 
 
