@@ -35,11 +35,13 @@ List = [
 #     return norandom
 #     #return List[1]
 def Random_Question():
-    random.shuffle(List)
-
-    return List[1]
-
-        
+    try:
+        x = random.choice(List)
+        List.remove(x)
+        return x
+    except :
+        return "Brak ciekawostek"
+    
 
 level1 = {
         '1.Co oznacz skrót ESP?' : 'elektrownia szczytowo-pompowa',
@@ -70,6 +72,8 @@ def The_End():
 #          return botanswer
 #     else :
 #          botanswer = "Zła odpowiedź"
+
+
 
 
 
