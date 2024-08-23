@@ -1,6 +1,6 @@
-0 Jadrowa
-1 Wodna
-2 Sloneczna
-3 Wiatrowa
-4 SZczytowo-pompowa
-5 grawitacyjna
+Jadrowa
+Wodna
+Sloneczna
+Wiatrowa
+SZczytowo-pompowa
+grawitacyjna
