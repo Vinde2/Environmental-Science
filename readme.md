@@ -43,6 +43,30 @@ time, random, os
 ## Przyszłość projektu :
 Celem projektu jest uświadamianie młodych i starszych osób w dziedzinie ekologi
 więc w najbliższym czasie możemy spodziewać się nowych informacji -----> ekologia i energetyka są dziedzinami dynamicznie rozwijającymi się.
+# Wszystkie funkcje w Pigułce:
+#### Wpisz $hello a bot się przedstawi..
+
+![image](https://github.com/user-attachments/assets/7d64127e-7c84-4990-b1dc-3f0fd72adbce)
+#### Wpisz $news a bot wyśle do ciebie losową ciekawostkę
+
+![image](https://github.com/user-attachments/assets/8de2a3b5-3331-440a-8d0d-137c224b4cf2)
+#### Wpisz $quiz a bot zada ci losowe pytanie
+Pytania odnoszą się do wcześniejszych ciekawostek z funkcji $news
+
+![image](https://github.com/user-attachments/assets/ccb83727-c522-4dbe-97b0-e8b4de32adb1)
+A.... po 15 sekundach automatycznie zostanie wysłane rozwiązanie [Pamętaj żeby odpowiedzieć]
+
+![image](https://github.com/user-attachments/assets/67763b84-2d5e-4051-ae5d-79b7ecf76731)
+#### Wpisz $check i załącz zdięcie elektroni pro ekologicznej a bot zapisze i zidentyfikuje elektrownie za pomocą AI!!
+
+![image](https://github.com/user-attachments/assets/6c4f1daf-78e4-4d76-8e77-6d662aa22827)
+![image](https://github.com/user-attachments/assets/31486417-7ab2-4417-8c86-0f2029e1c2cd)
+#### Jeżeli nic nie wyslesz bot odpiszę : Nothing Here
+
+![image](https://github.com/user-attachments/assets/46476408-1e05-45e7-af73-1d4ddf6db84b)
+#### Jezeli rozwiązałeś już wszystkie zadania i chciałbys zrobić notatki ta funkcja wyśle ci wszystkie pytania i odpowiedzi z funkcji $quiz
+
+![image](https://github.com/user-attachments/assets/cd90b8ae-4f18-4aee-8459-35abc7b35a96)
 
 
 
