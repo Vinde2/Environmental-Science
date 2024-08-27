@@ -1,7 +1,15 @@
 
 # Environmental-Science
+![image](https://github.com/user-attachments/assets/704e6bdd-4c5d-4b81-8797-63c1767624b2)
 
-##### Ten projekt jest dla osób które w zabawny i fajny sposób chciałyby dowiedzieć się więcej o ekologi.  Projekt będzie bardzo prostym przedstawieniem wiedzy na temat ogólnych pojęć ekologi
+
+## Czym są zmiany klimatyczne? 
+Zmiany klimatu są jednym z największych zagrożeń środowiskowych, społecznych i ekonomicznych. Ocieplanie się klimatu nie podlega wątpliwości – stwierdza międzyrządowy zespół ds. zmian klimatu (IPCC). Obserwacje wskazują na wzrost globalnych średnich temperatur powietrza i oceanów, powszechne topnienie śniegu i lodu oraz podnoszenie się poziomu mórz. Bardzo możliwe, że ocieplenie można w większej części przypisać emisji gazów cieplarnianych związanej z działalnością człowieka.
+####  Jeżeli chcecie się dowiedzieć więcej naprzykład o elektrowniach pro ekologicznych lub bateriach grawitacyjnych i dlaczego samochody elektrychne wcale nie zbawią świata.
+## ZAPRASZAM DO MOJEGO PROJEKTU -----> W którym w prosty sposób wytłumaczę tę skomplikowane tematy za pomocą fiszek, quizów i AI.
+
+
+##### Ten projekt jest dla osób które w zabawny i fajny sposób chciałyby dowiedzieć się więcej o ekologi.  Projekt będzie bardzo prostym przedstawieniem wiedzy na temat ogólnych pojęć ekologi ale równiez nie zabraknie różnych ciekawostek dla ciekawskich.
 Kod jest pisany w :
 Python == 3.11
 Model AI jest ze strony : https://teachablemachine.withgoogle.com/
@@ -15,9 +23,20 @@ Model AI jest ze strony : https://teachablemachine.withgoogle.com/
 
 ### Inne ciekawe dodatki ###
 W projekcie pojaw się QUIZ>>>>
+oraz odnośniki do stron na których omżna jeszcze bardziej zgłębić temat.
 
+## Interesujące rozwiązania w moim projekcie
+![image](https://github.com/user-attachments/assets/88653c14-5396-419a-92c9-68234ef651d3)
+#### TA Funkcja sprawdza czy przesłany obraz jest zdięciem : Dokładniej sprawdza konczówkę nazwy w poszukiwaniu .jpg, bmp, itd.
 
+![image](https://github.com/user-attachments/assets/176d6562-8c62-4c70-917b-fd65c68e6c93)
+#### TA Funkcja losuje, wyświetla i usówa ciekawostkę z listy dzięki czemu nie ma powtórek :)
+ 
+![image](https://github.com/user-attachments/assets/465fc915-0d9f-4bd6-b772-a19f2f7b688f)
+#### Korzystam również ze słownika w quizie ---->
 
+![image](https://github.com/user-attachments/assets/e99927a6-38c4-41ce-be6a-6f76cb80510a)
+#### A Tutaj zapisujemy przesłane zdięcie sprawdzamy jego klasyfikacje według AI i usuwamy.
 
 # BIBLIOTEKI ---->
 ```
@@ -44,6 +63,7 @@ time, random, os
 Celem projektu jest uświadamianie młodych i starszych osób w dziedzinie ekologi
 więc w najbliższym czasie możemy spodziewać się nowych informacji -----> ekologia i energetyka są dziedzinami dynamicznie rozwijającymi się.
 # Wszystkie funkcje w Pigułce:
+
 #### Wpisz $hello a bot się przedstawi..
 
 ![image](https://github.com/user-attachments/assets/7d64127e-7c84-4990-b1dc-3f0fd72adbce)
@@ -61,7 +81,7 @@ A.... po 15 sekundach automatycznie zostanie wysłane rozwiązanie [Pamętaj że
 
 ![image](https://github.com/user-attachments/assets/6c4f1daf-78e4-4d76-8e77-6d662aa22827)
 ![image](https://github.com/user-attachments/assets/31486417-7ab2-4417-8c86-0f2029e1c2cd)
-#### Jeżeli nic nie wyslesz bot odpiszę : Nothing Here
+#### Jeżeli nic nie wyślesz bot odpiszę : Nothing Here
 
 ![image](https://github.com/user-attachments/assets/46476408-1e05-45e7-af73-1d4ddf6db84b)
 #### Jezeli rozwiązałeś już wszystkie zadania i chciałbys zrobić notatki ta funkcja wyśle ci wszystkie pytania i odpowiedzi z funkcji $quiz
